@@ -19,3 +19,12 @@ Casino operators need real-time visibility into floor revenue, VIP player risk, 
 - **Floor Revenue**: Performance metrics broken down by game type.
 - **VIP Risk**: Automated identification of at-risk loyalty tiers.
 - **Operational Efficiency**: Analysis of revenue per unit to optimize floor layout.
+
+## How to View
+1. Download the repository and open `casino_report.pbix` in Power BI Desktop.
+2. If the data does not load, go to **Transform Data > Data source settings**.
+3. Select `casino.db` and click **Change Source** to point it to your local file path.
+4. Click **Refresh** to populate the dashboard.
+
+## Dashboard Preview
+![Casino Operational Performance Dashboard](images/dashboard_preview.png)
